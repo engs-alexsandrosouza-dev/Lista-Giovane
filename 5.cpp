@@ -1,4 +1,4 @@
-5:#include <iostream>
+#include <iostream>
 using namespace std;
 
 int fatorial(int num){
