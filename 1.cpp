@@ -16,5 +16,4 @@ int main() {
     area = AreaRetangulo(base, altura);
     cout << "A área do retângulo é: " << area << endl;
 
-    return 0;
 }
