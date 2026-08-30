@@ -21,4 +21,10 @@ int main (){
 
     resultado = potencia(base, expoente);
     cout << base << " elevado a " << expoente << " é: " << resultado << endl;
+
+    resultado = potencia(base, 2);
+    cout << base << " elevado a 2 é: " << resultado << endl;
+
+    resultado = potencia(2, 3);
+    cout << "2 elevado a 3 é: " << resultado << endl;
 }
