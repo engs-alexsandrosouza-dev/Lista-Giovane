@@ -16,7 +16,7 @@ void minMax(int* arr, int n, int* minVal, int* maxVal) {
 }
 
 int main(){
-    int tam = 6, minVal, maxVal;
+    int tam = 5, minVal, maxVal;
     int arr[tam];
     cout << "Digite os elementos do vetor: ";
     for (int i = 0; i < tam; i++) {
